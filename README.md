@@ -1,4 +1,4 @@
-### 项目已迁移至新仓库：[googlehosts/hosts](https://github.com/googlehosts/hosts)，本项目不再更新，开新Issues/Pull requests请前往新仓库。
+### 项目已迁移至新仓库：[googlehosts/hosts](https://github.com/googlehosts/hosts)，本仓库不再更新，开新Issues/Pull requests请前往新仓库，谢谢。
 
 [![doodle]][doodle-story]
 
